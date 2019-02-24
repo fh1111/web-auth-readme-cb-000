@@ -1657,3 +1657,209 @@ Processing by SearchesController#search as HTML
 Redirected to https://foursquare.com/oauth2/authenticate?client_id=GBMY10DPP5TWMWQLHUBQ3YHOWB1RVSZP3I2JZETH0DIKVWVV&response_type=code&redirect_uri=http%3A%2F%2F142.93.113.210%3A45020%2Fauth
 Filter chain halted as :authenticate_user rendered or redirected
 Completed 302 Found in 69ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/search" for 76.116.130.143 at 2019-02-24 15:14:44 +0000
+Cannot render console from 76.116.130.143! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by SearchesController#search as HTML
+Redirected to https://foursquare.com/oauth2/authenticate?client_id=GBMY10DPP5TWMWQLHUBQ3YHOWB1RVSZP3I2JZETH0DIKVWVV&response_type=code&redirect_uri=http%3A%2F%2F142.93.113.210%3A45020%2Fauth
+Filter chain halted as :authenticate_user rendered or redirected
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/auth?code=4WVXUEWFUJGAHZGYV5JOJYWNSAA5KT0FUJCWZ0R2DMPOYKWW" for 76.116.130.143 at 2019-02-24 15:14:47 +0000
+Cannot render console from 76.116.130.143! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by SessionsController#create as HTML
+  Parameters: {"code"=>"4WVXUEWFUJGAHZGYV5JOJYWNSAA5KT0FUJCWZ0R2DMPOYKWW"}
+Redirected to http://142.93.113.210:45020/
+Completed 302 Found in 104ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 76.116.130.143 at 2019-02-24 15:14:47 +0000
+Cannot render console from 76.116.130.143! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by SearchesController#search as HTML
+Redirected to https://foursquare.com/oauth2/authenticate?client_id=GBMY10DPP5TWMWQLHUBQ3YHOWB1RVSZP3I2JZETH0DIKVWVV&response_type=code&redirect_uri=http%3A%2F%2F142.93.113.210%3A45020%2Fauth
+Filter chain halted as :authenticate_user rendered or redirected
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/auth?code=ERKGKRT4KRUZGRHIVEX0PPJTHY1BVVLV5JDAOFOTPKFOHIWC" for 76.116.130.143 at 2019-02-24 15:14:50 +0000
+Cannot render console from 76.116.130.143! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by SessionsController#create as HTML
+  Parameters: {"code"=>"ERKGKRT4KRUZGRHIVEX0PPJTHY1BVVLV5JDAOFOTPKFOHIWC"}
+Redirected to http://142.93.113.210:45020/
+Completed 302 Found in 107ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 76.116.130.143 at 2019-02-24 15:14:50 +0000
+Cannot render console from 76.116.130.143! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by SearchesController#search as HTML
+Redirected to https://foursquare.com/oauth2/authenticate?client_id=GBMY10DPP5TWMWQLHUBQ3YHOWB1RVSZP3I2JZETH0DIKVWVV&response_type=code&redirect_uri=http%3A%2F%2F142.93.113.210%3A45020%2Fauth
+Filter chain halted as :authenticate_user rendered or redirected
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/auth?code=IGE43TPQW3L5GPSBD4GEWZTFBPNIHMIBUSFRFMOR0QOWAFTM" for 76.116.130.143 at 2019-02-24 15:14:51 +0000
+Cannot render console from 76.116.130.143! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by SessionsController#create as HTML
+  Parameters: {"code"=>"IGE43TPQW3L5GPSBD4GEWZTFBPNIHMIBUSFRFMOR0QOWAFTM"}
+Redirected to http://142.93.113.210:45020/
+Completed 302 Found in 43ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 76.116.130.143 at 2019-02-24 15:14:51 +0000
+Cannot render console from 76.116.130.143! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by SearchesController#search as HTML
+Redirected to https://foursquare.com/oauth2/authenticate?client_id=GBMY10DPP5TWMWQLHUBQ3YHOWB1RVSZP3I2JZETH0DIKVWVV&response_type=code&redirect_uri=http%3A%2F%2F142.93.113.210%3A45020%2Fauth
+Filter chain halted as :authenticate_user rendered or redirected
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/auth?code=PVQBWLCNPZWOXQSNZTSTSBC0AOJBASWP2BXVFV2GSCIXTXGO" for 76.116.130.143 at 2019-02-24 15:14:53 +0000
+Cannot render console from 76.116.130.143! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by SessionsController#create as HTML
+  Parameters: {"code"=>"PVQBWLCNPZWOXQSNZTSTSBC0AOJBASWP2BXVFV2GSCIXTXGO"}
+Redirected to http://142.93.113.210:45020/
+Completed 302 Found in 42ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 76.116.130.143 at 2019-02-24 15:14:53 +0000
+Cannot render console from 76.116.130.143! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by SearchesController#search as HTML
+Redirected to https://foursquare.com/oauth2/authenticate?client_id=GBMY10DPP5TWMWQLHUBQ3YHOWB1RVSZP3I2JZETH0DIKVWVV&response_type=code&redirect_uri=http%3A%2F%2F142.93.113.210%3A45020%2Fauth
+Filter chain halted as :authenticate_user rendered or redirected
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/auth?code=GXZBXKDBU1DAUN0DNRAYLGBT2PWLPM1DBHKKKFXQ0MKGEQK5" for 76.116.130.143 at 2019-02-24 15:15:13 +0000
+Cannot render console from 76.116.130.143! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by SessionsController#create as HTML
+  Parameters: {"code"=>"GXZBXKDBU1DAUN0DNRAYLGBT2PWLPM1DBHKKKFXQ0MKGEQK5"}
+Redirected to http://142.93.113.210:45020/
+Completed 302 Found in 122ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 76.116.130.143 at 2019-02-24 15:15:13 +0000
+Cannot render console from 76.116.130.143! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by SearchesController#search as HTML
+Redirected to https://foursquare.com/oauth2/authenticate?client_id=GBMY10DPP5TWMWQLHUBQ3YHOWB1RVSZP3I2JZETH0DIKVWVV&response_type=code&redirect_uri=http%3A%2F%2F142.93.113.210%3A45020%2Fauth
+Filter chain halted as :authenticate_user rendered or redirected
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 76.116.130.143 at 2019-02-24 15:15:57 +0000
+Cannot render console from 76.116.130.143! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by SearchesController#search as HTML
+Redirected to https://foursquare.com/oauth2/authenticate?client_id=GBMY10DPP5TWMWQLHUBQ3YHOWB1RVSZP3I2JZETH0DIKVWVV&response_type=code&redirect_uri=http%3A%2F%2F142.93.113.210%3A45020%2Fauth
+Filter chain halted as :authenticate_user rendered or redirected
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/friends" for 76.116.130.143 at 2019-02-24 15:15:59 +0000
+Cannot render console from 76.116.130.143! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by SearchesController#friends as HTML
+Redirected to https://foursquare.com/oauth2/authenticate?client_id=GBMY10DPP5TWMWQLHUBQ3YHOWB1RVSZP3I2JZETH0DIKVWVV&response_type=code&redirect_uri=http%3A%2F%2F142.93.113.210%3A45020%2Fauth
+Filter chain halted as :authenticate_user rendered or redirected
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/auth?code=G2PA32SHD3RKDHU20RPPITJH14KNSJQN41EN2FFBXQNVN2QI" for 76.116.130.143 at 2019-02-24 15:16:02 +0000
+Cannot render console from 76.116.130.143! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by SessionsController#create as HTML
+  Parameters: {"code"=>"G2PA32SHD3RKDHU20RPPITJH14KNSJQN41EN2FFBXQNVN2QI"}
+Redirected to http://142.93.113.210:45020/
+Completed 302 Found in 126ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 76.116.130.143 at 2019-02-24 15:16:03 +0000
+Cannot render console from 76.116.130.143! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by SearchesController#search as HTML
+Redirected to https://foursquare.com/oauth2/authenticate?client_id=GBMY10DPP5TWMWQLHUBQ3YHOWB1RVSZP3I2JZETH0DIKVWVV&response_type=code&redirect_uri=http%3A%2F%2F142.93.113.210%3A45020%2Fauth
+Filter chain halted as :authenticate_user rendered or redirected
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 76.116.130.143 at 2019-02-24 15:16:48 +0000
+Cannot render console from 76.116.130.143! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by SearchesController#search as HTML
+Redirected to https://foursquare.com/oauth2/authenticate?client_id=GBMY10DPP5TWMWQLHUBQ3YHOWB1RVSZP3I2JZETH0DIKVWVV&response_type=code&redirect_uri=http%3A%2F%2F142.93.113.210%3A45020%2Fauth
+Filter chain halted as :authenticate_user rendered or redirected
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/auth" for 76.116.130.143 at 2019-02-24 15:16:50 +0000
+Cannot render console from 76.116.130.143! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by SessionsController#create as HTML
+Redirected to http://142.93.113.210:45020/
+Completed 302 Found in 40ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 76.116.130.143 at 2019-02-24 15:16:50 +0000
+Cannot render console from 76.116.130.143! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by SearchesController#search as HTML
+Redirected to https://foursquare.com/oauth2/authenticate?client_id=GBMY10DPP5TWMWQLHUBQ3YHOWB1RVSZP3I2JZETH0DIKVWVV&response_type=code&redirect_uri=http%3A%2F%2F142.93.113.210%3A45020%2Fauth
+Filter chain halted as :authenticate_user rendered or redirected
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/auth" for 76.116.130.143 at 2019-02-24 15:16:52 +0000
+Cannot render console from 76.116.130.143! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by SessionsController#create as HTML
+Redirected to http://142.93.113.210:45020/
+Completed 302 Found in 101ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 76.116.130.143 at 2019-02-24 15:16:52 +0000
+Cannot render console from 76.116.130.143! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by SearchesController#search as HTML
+Redirected to https://foursquare.com/oauth2/authenticate?client_id=GBMY10DPP5TWMWQLHUBQ3YHOWB1RVSZP3I2JZETH0DIKVWVV&response_type=code&redirect_uri=http%3A%2F%2F142.93.113.210%3A45020%2Fauth
+Filter chain halted as :authenticate_user rendered or redirected
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/auth?code=GONHIPQIYOYDAXCMEC2OIVMVAPL14SRYQPCD1EOLMSPLDBFO" for 76.116.130.143 at 2019-02-24 15:17:14 +0000
+Cannot render console from 76.116.130.143! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by SessionsController#create as HTML
+  Parameters: {"code"=>"GONHIPQIYOYDAXCMEC2OIVMVAPL14SRYQPCD1EOLMSPLDBFO"}
+Redirected to http://142.93.113.210:45020/
+Completed 302 Found in 52ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 76.116.130.143 at 2019-02-24 15:17:14 +0000
+Cannot render console from 76.116.130.143! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by SearchesController#search as HTML
+Redirected to https://foursquare.com/oauth2/authenticate?client_id=GBMY10DPP5TWMWQLHUBQ3YHOWB1RVSZP3I2JZETH0DIKVWVV&response_type=code&redirect_uri=http%3A%2F%2F142.93.113.210%3A45020%2Fauth
+Filter chain halted as :authenticate_user rendered or redirected
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/auth?code=45CISALIVUKG0FQTMWFKKOULH0GOLSFQ1PY5GJWPA0I2DZ45" for 76.116.130.143 at 2019-02-24 15:17:20 +0000
+Cannot render console from 76.116.130.143! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by SessionsController#create as HTML
+  Parameters: {"code"=>"45CISALIVUKG0FQTMWFKKOULH0GOLSFQ1PY5GJWPA0I2DZ45"}
+Redirected to http://142.93.113.210:45020/
+Completed 302 Found in 54ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 76.116.130.143 at 2019-02-24 15:17:20 +0000
+Cannot render console from 76.116.130.143! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by SearchesController#search as HTML
+Redirected to https://foursquare.com/oauth2/authenticate?client_id=GBMY10DPP5TWMWQLHUBQ3YHOWB1RVSZP3I2JZETH0DIKVWVV&response_type=code&redirect_uri=http%3A%2F%2F142.93.113.210%3A45020%2Fauth
+Filter chain halted as :authenticate_user rendered or redirected
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/auth?code=O4GIJB0BIQNXBOSJIAME5TCUSSRKBNJESYYFDGSIGOETEWPT" for 76.116.130.143 at 2019-02-24 15:17:21 +0000
+Cannot render console from 76.116.130.143! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by SessionsController#create as HTML
+  Parameters: {"code"=>"O4GIJB0BIQNXBOSJIAME5TCUSSRKBNJESYYFDGSIGOETEWPT"}
+Redirected to http://142.93.113.210:45020/
+Completed 302 Found in 109ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 76.116.130.143 at 2019-02-24 15:17:21 +0000
+Cannot render console from 76.116.130.143! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by SearchesController#search as HTML
+Redirected to https://foursquare.com/oauth2/authenticate?client_id=GBMY10DPP5TWMWQLHUBQ3YHOWB1RVSZP3I2JZETH0DIKVWVV&response_type=code&redirect_uri=http%3A%2F%2F142.93.113.210%3A45020%2Fauth
+Filter chain halted as :authenticate_user rendered or redirected
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
