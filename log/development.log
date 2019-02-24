@@ -1649,3 +1649,11 @@ Processing by SearchesController#search as HTML
 Redirected to https://foursquare.com/oauth2/authenticate?client_id=&response_type=code&redirect_uri=http%3A%2F%2F142.93.113.210%3A45020%2Fauth
 Filter chain halted as :authenticate_user rendered or redirected
 Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 76.116.130.143 at 2019-02-24 15:14:42 +0000
+Cannot render console from 76.116.130.143! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by SearchesController#search as HTML
+Redirected to https://foursquare.com/oauth2/authenticate?client_id=GBMY10DPP5TWMWQLHUBQ3YHOWB1RVSZP3I2JZETH0DIKVWVV&response_type=code&redirect_uri=http%3A%2F%2F142.93.113.210%3A45020%2Fauth
+Filter chain halted as :authenticate_user rendered or redirected
+Completed 302 Found in 69ms (ActiveRecord: 0.0ms)
